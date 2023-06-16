@@ -1,3 +1,5 @@
+![](/docs/Additional/Material/GOAT.jpeg)
+
 <details closed><summary><h1>Rolling On With</h1></summary>
 
 <details closed><summary><h2>Malbern</h2></summary>
@@ -49,8 +51,6 @@ is a way to clean up this digital world. Interests in all things technological a
 </details>
 
 ***
-
-![](/docs/Additional/Material/GOAT.jpeg)
 
 ***
 
